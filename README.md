@@ -68,7 +68,7 @@ That’s all about me. Thank you!
 
 ## 📊 GitHub Analytics
 
-![ZUBAID14 GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmmPrakash-07&show_icons=true&theme=radical)
+![ZUBAID14 GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZUBAID14&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZUBAID14&layout=compact&theme=radical)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ZUBAID14&theme=radical" alt="GitHub Streak" />
@@ -81,7 +81,7 @@ That’s all about me. Thank you!
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubaid-pasha?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubaid-pasha?)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_zap_14?igsh=MTRhZXE2eGptcTY1Zw==)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zubaidpasha69@gmail.com)
 
